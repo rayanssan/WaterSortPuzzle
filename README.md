@@ -15,5 +15,4 @@ If the puzzle is successfully completed, the bet amount is doubled.
 
 <strong>Developed by:</strong><br>
 Rayan Serafim Santana<br>
-Guilherme Bastos<br>
-Diogo Piçarra<br>
+Guilherme Bastos
