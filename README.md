@@ -1,4 +1,5 @@
-Water Sort Puzzle Water puzzle game that challenges players to rearrange the liquids 
+<h1>${\textsf{\color{purple}Water Sort Puzzle}}$</h1>                                                                                                                                                                                                                                                                                          
+<strong>Water Sort Puzzle</strong> is puzzle game that challenges players to rearrange the liquids 
 so that each bottle contains only one color. It features two game modes to choose from: Normal and Bet.
 
 <strong>Normal Mode:</strong><br>
@@ -12,7 +13,7 @@ Complete the puzzle within the following move limits to earn points:<br>
 In Bet mode, you have a limited number of plays and can place a bet between 50 and 500 points against your current score.
 If the puzzle is successfully completed, the bet amount is doubled.
 
-<strong>Developed by:</strong>
+<strong>Developed by:</strong><br>
 Rayan Serafim Santana<br>
 Guilherme Bastos<br>
 Diogo Piçarra<br>
