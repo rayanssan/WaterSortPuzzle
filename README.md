@@ -1,7 +1,7 @@
 <h1>${\textsf{\color{purple}Water Sort Puzzle}}$</h1>                                                                                                                                                                                                                                                                                          
 <strong>Water Sort Puzzle</strong> is puzzle game that challenges players to rearrange the liquids 
 so that each bottle contains only one color. It features two game modes to choose from: Normal and Bet.
-
+<br><br>
 <strong>Normal Mode:</strong><br>
 The objective in Normal mode is to organize all liquids of one type into a single bottle. <br>
 Complete the puzzle within the following move limits to earn points:<br>
